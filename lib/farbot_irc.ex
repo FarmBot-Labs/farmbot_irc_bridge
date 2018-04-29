@@ -1,0 +1,2 @@
+defmodule FarbotIrc do
+end
